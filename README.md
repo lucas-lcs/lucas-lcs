@@ -8,7 +8,7 @@
 - ✔️  Estou atuando no squad de ecommerce(aplicação **“web”**, utilizando **Cypress** e **TypeScript**),trabalho remotamente nas lojas de casa mesa e banho, que atualmente vem expandindo suas categorias... são elas: [mmartan](https://mmartan.com.br/), [Artex](https://dev.artex.com.br/) **e** [Santistadecora](https://santistadecora.com.br/).
 - 🚀  Trabalhei também na MC1 em um projeto, **“web”**, **mobile** e **IOS**, no ramo de Transportadora com **Robot fremework em Paython**.
 - 📈  Amo o que faço e busco dar meu melhor e melhorar a cada dia... aprendendo e disseminando conhecimento adquiridos. 
-- 😎 Estou iniciando meus estudos em desennvolvimento para melhorar mais meus conhecimentos técnicos.
+- 😎 Estou iniciando meus estudos em desenvolvimento para melhorar mais meus conhecimentos técnicos.
 
 ## Conhecimentos em:
 - [X] <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
